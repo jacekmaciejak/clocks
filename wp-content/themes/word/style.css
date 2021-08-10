@@ -1,0 +1,37 @@
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box !important;
+}
+
+/*
+.elementor-section.elementor-section-stretched {
+    position: sticky !important;
+} */
+
+.strong-view.wpmtst-modern .wpmtst-testimonial-content::before,
+.strong-view.wpmtst-modern .wpmtst-testimonial-content::after {
+    color: #000 !important;
+    background-color: #000 !important;
+    background: #000 !important;
+}
+
+.elementor-2 .elementor-element.elementor-element-133eb8b>.elementor-element-populated {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nav-position {
+    position: fixed !important;
+}
+
+
+@media (max-width: 1024px) {
+    .position1 {
+        order: 1;
+    }
+
+    .position2 {
+        order: 2;
+    }
+}
